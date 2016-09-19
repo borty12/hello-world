@@ -1,0 +1,59 @@
+html{
+	margin-left: 50px;
+	font-size: 14px;
+}
+
+body{
+	line-height: 1;
+}
+
+div.personal1{
+	font-size: 20px;
+	font-weight: bolder;
+	text-align: center;
+	width: 100%;
+}
+
+div.personal2{
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+}
+
+p.header1{
+	font-size: 18px;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+
+p.header2{
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 0px;
+}
+
+div.specification{
+	font-size: 14px;
+	font-weight: bold;
+	font-style: italic;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+div.body2{
+	width: 60%;
+}
+
+p.body{
+	font-size: 14px;
+}
+
+div.special{
+	font-weight: bold;
+}
+
+div+ul{
+	margin-top: 0%;
+}
+
